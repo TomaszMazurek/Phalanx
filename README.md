@@ -1,2 +1,2 @@
 # Phazer
-Multi-platform, openGL, Game engine
+Multi-platform, openGL game engine
